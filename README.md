@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on: React Native & Full-Stack Projects<br><br>👯 I'm looking to collaborate on: Open Source Projects and MERN Applications<br><br>🤝 I'm looking for help with: System Design, Backend Scalability, and Open Source Contributions<br><br>🌱 I'm currently learning: React Native, Next.js, Firebase, Node.js, Express.js, MongoDB, React.js and Advanced DSA<br><br>💬 Ask me about: C++, JavaScript, React, React Native, MERN Stack, and DSA<br><br>⚡ Fun fact: I love turning ideas into real applications and enjoy solving coding problems every day.
+🔭 I'm currently working on: React Native & Full-Stack Projects<br><br>👯 I'm looking to collaborate on: Open Source Projects and MERN Applications<br><br>🤝 I'm looking for help with: System Design, Backend Scalability, and Open Source Contributions<br><br>🌱 I'm currently learning: React Native, Next.js, Firebase, Node.js, Express.js, MongoDB, React.js and Advanced DSA<br><br><br>
 
 
 ## 🌐 Socials:
